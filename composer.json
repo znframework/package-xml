@@ -12,8 +12,8 @@
     ],
     "require": {
         "php": ">=7.0.0",
-        "znframework/package-zerocore": "5.5.*",
-        "znframework/package-hypertext": "5.5.*"
+        "znframework/package-zerocore": "5.6.*",
+        "znframework/package-hypertext": "5.6.*"
 	},
     "autoload": {
         "psr-4": {
